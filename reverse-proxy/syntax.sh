@@ -1,5 +1,5 @@
 #installatition nginx
-apt install nginx
+sudo apt install nginx
 
 #remove default configuraton
 cd /etc/nginx
